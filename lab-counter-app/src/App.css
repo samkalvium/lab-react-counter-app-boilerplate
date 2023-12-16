@@ -1,0 +1,26 @@
+.body{
+  text-align: center;
+  font-size: 25px;
+}
+
+.count{
+  color: red;
+}
+
+button{
+  margin-left: 15px;
+  padding: 10px;
+  width: 50px;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+
+.reset{
+  font-size: 15px;
+  width: fit-content;
+}
+
+button:hover{
+  background-color: black;
+  color: red;
+}
